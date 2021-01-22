@@ -1,16 +1,9 @@
-# todo_app
+# TODO-Always-Stay-Organized
+A Todo Application developed using the Flutter Framework.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features :
+  - Manages the Tasks in four Categories : Due Today, Delayed, Upcoming, Completed
+  - Can see a Summary of all the tasks 
+  - User can Add new Tasks with inputs as Title, Details, Deadline Date
+  - The Tasks can be Edited for title, details, deadline date
+  - Updates the Status of the tasks daily as per the deadline date
